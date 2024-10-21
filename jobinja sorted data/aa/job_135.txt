@@ -1,0 +1,11 @@
+Url: https://panel.jobinja.ir/auth/sign-in
+Content_snippet: ورود به حساب کارفرمایی | جابینجاحساب کارفرمایی ندارید؟ثبت نام کارفرمایانکارفرمایانورود به حساب کارفرماییایمیل یا شماره موبایلرمز عبورورودرمز عبور خود را فراموش کرده‌اید؟فراموشی رمز عبور۰۲۱-۹۱۰۷۱۳۹۴تماس با ما×ساعات کاری:شنبه تا چهارشنبه از ۹:۰۰ تا ۱۷:۳۰ به استثنای تعطیلی‌های رسمی۰۲۱-۹۱۰۷۱۳۹۴شرکت فناوران سرمایه انسانی جاویدان (جابینجا)
+Job_title: N/A
+Job_type: N/A
+Job_location: N/A
+Company_name: N/A
+Contract_type: N/A
+Work_experience: N/A
+Min_salary: N/A
+Gender: N/A
+Education_level: N/A
