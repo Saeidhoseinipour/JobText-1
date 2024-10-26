@@ -2,6 +2,7 @@
 
 This repository contains a 🐍 Python script that scrapes job listings from [Jobinja](https://jobinja.ir/). The script is designed to extract detailed information from job ads, such as job title 📋, job type ⏱️, location 📍, and other relevant attributes, and output the data for further 📊 analysis.
 
+
 ## ✨ Features
 - **Scrape Job Listings**: Extracts information ℹ️ from job listings available on the Jobinja 🌐 website.
 - **Detailed Data Extraction**: Collects various attributes including job title 📜, company name 🏢, location 📍, work experience requirements 💼, contract type 📃, gender 🚻, minimum salary 💰, and education level 🎓.
