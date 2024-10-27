@@ -1,5 +1,9 @@
 [![](https://badgen.net/badge/license/Apache/blue?icon=instgrame)](LICENSE)
 [![](https://badgen.net/badge/Job/Inja/blue?icon=instgrame)]()
+[![](https://badgen.net/badge/API/Text/blue?icon=instgrame)]()
+
+
+
 
 # 🏢💼 Jobinja Job Listings Scraper 🔍💻
 
