@@ -2,6 +2,21 @@
 [![](https://badgen.net/badge/Job/Inja/blue?icon=instgrame)]()
 [![](https://badgen.net/badge/API/Text/blue?icon=instgrame)]()
 
+# Tasks
+🔍 
+- [ ] Read and analyze source codes
+- [ ] Dataset exploration and storytelling
+- [ ] Review available filtering features on main website
+- [ ] Primary focus on job descriptions for each Job ID
+- [ ] Clean text data
+- [ ] Create text corpus
+- [ ] Tokenization process
+- [ ] Remove stop words
+- [ ] Generate Job-Word Matrix
+- [ ] Calculate TF-IDF Job-Word Matrix
+- [ ] Create heatmap visualization of Job-Word Matrix
+- [ ] Identify and analyze top 20 jobs
+- [ ] Extract and analyze top 20 words
 
 
 
@@ -103,6 +118,4 @@ This project is licensed under the MIT License.
 ## 🤝 Contributing
 Feel free to submit a pull request 📥 if you have any improvements ✨ or bug fixes 🐛. All contributions are welcome 🤗.
 
-## 👤 Author
-Created by [Your Name](https://github.com/yourusername).
 
